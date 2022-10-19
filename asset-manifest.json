@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homewort10/static/css/main.e6c13ad2.css",
+    "main.js": "/homewort10/static/js/main.c3fafcd9.js",
+    "index.html": "/homewort10/index.html",
+    "main.e6c13ad2.css.map": "/homewort10/static/css/main.e6c13ad2.css.map",
+    "main.c3fafcd9.js.map": "/homewort10/static/js/main.c3fafcd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c3fafcd9.js"
+  ]
+}
